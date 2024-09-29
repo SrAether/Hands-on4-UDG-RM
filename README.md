@@ -91,7 +91,7 @@ awk '{sum += $2} END {print sum}' archivo.txt
 
 ### 📧 **Contacto**
 
-Si tienes alguna duda o sugerencia, puedes contactarme en: tu-email@example.com
+Si tienes alguna duda o sugerencia, puedes contactarme en: sraether@proton.me
 
 ---
 
