@@ -1,0 +1,7 @@
+[INFO] Server started at 08:00 AM
+[ERROR] Failed to connect to database
+[INFO] New connection from 192.168.1.100
+[WARNING] High memory usage detected
+[ERROR] User authentication failed
+[INFO] Server shut down at 06:00 PM
+
