@@ -1,12 +1,12 @@
--#- 🛠️ **Services Menu Script** -#-
+# 🛠️ **Services Menu Script** #
 
--#-![Bash](https://img.shields.io/badge/Bash-Script-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)-#-
+#![Bash](https://img.shields.io/badge/Bash-Script-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)#
 
 Este proyecto es un script de Bash interactivo que proporciona una serie de herramientas útiles para gestionar ficheros y realizar operaciones como listar archivos, crear archivos de texto, comparar archivos, y ejemplos prácticos de comandos como `awk` y `grep`.
 
 ---
 
--#- 🚀 **Características** -#-
+# 🚀 **Características** #
 
 - 📂 **Listar Contenido**: Visualiza el contenido de una carpeta.
 - 📝 **Crear Archivo**: Crea un archivo de texto desde la terminal.
@@ -16,7 +16,7 @@ Este proyecto es un script de Bash interactivo que proporciona una serie de herr
 
 ---
 
--#- 📋 **Uso** -#-
+# 📋 **Uso** #
 
 1. Clona este repositorio:
 
@@ -44,7 +44,7 @@ Este proyecto es un script de Bash interactivo que proporciona una serie de herr
 
 ---
 
--#- 📂 **Estructura del Menú** -#-
+# 📂 **Estructura del Menú** #
 
 El menú principal ofrece las siguientes opciones:
 
@@ -59,14 +59,14 @@ El menú principal ofrece las siguientes opciones:
 
 ---
 
--#- ⚡ **Requisitos** -#-
+# ⚡ **Requisitos** #
 
 - [Bash](https://www.gnu.org/software/bash/) (versión 4.0 o superior)
 - Sistema Operativo Linux (Probado en distribuciones basadas en Arch)
 
 ---
 
--#- 📚 **Ejemplos de Uso** -#-
+# 📚 **Ejemplos de Uso** #
 
 ### 🔎 **Buscar con `grep`**
 
