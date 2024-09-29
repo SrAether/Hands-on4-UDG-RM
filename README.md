@@ -21,13 +21,13 @@ Este proyecto es un script de Bash interactivo que proporciona una serie de herr
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/services-menu-script.git
+   git clone https://github.com/SrAether/Hands-on4-UDG-RM.git
    ```
 
 2. Navega al directorio del script:
 
    ```bash
-   cd services-menu-script
+   cd Hands-on4-UDG-RM
    ```
 
 3. Asigna permisos de ejecución al script:
